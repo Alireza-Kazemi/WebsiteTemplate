@@ -38,6 +38,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-pdf
 
 whitelist:
   - jekyll-sitemap

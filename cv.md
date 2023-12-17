@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: CV
+pdf: true
 ---
 
 # Curriculum Vitæ
@@ -9,7 +10,7 @@ title: CV
 
 ## Section
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is modified sample text in CV
 
 * Ut enim ad minim veniam
 * Quis nostrud exercitation
